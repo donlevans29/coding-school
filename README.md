@@ -15,6 +15,14 @@ Your going to build 1 really large software that requires you to apply all the b
 I think the best learning is when you actually need to build something that YOU find useful or that someone depends on a mission critical activity.
 (bill gates building the software for the school payroll)
 
+## Experience Hack
+- Work on your own project on github and update it everyday using targeted speciality language.
+- Invite others to improve it [team work]
+- Invite others to test it and log issues [team work and code issue resolution]
+- Document how you solved the problem with an article or video and explain the code implemented step by step [mastery of programming basics]
+- Add features to shows to it. [create new features]
+
+
 # Investigation
 
 # Library
