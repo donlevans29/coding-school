@@ -28,6 +28,8 @@ I think the best learning is when you actually need to build something that YOU 
 # Investigation
 
 # Library
+- FreeCodeCamp:ALL VIDS https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+  - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Library - Basics
 
