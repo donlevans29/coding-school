@@ -9,6 +9,10 @@ focus on => ++ Build Challenging Projects
 - doesn't realy on your memory
 - makes you an active learner while using tuts just to give yo the basics to work with.
 
+*** Combine more resouces in one place.(example from algoexpert.io for coding interviews)
+![image](https://user-images.githubusercontent.com/18158428/147478039-b4288cf3-6140-4e57-8f7e-d35c5b6b3466.png)
+
+
 # Research
 - video courses [supportive material]
 - problem solving excersise [applied learning]
@@ -40,6 +44,7 @@ I think the best learning is when you actually need to build something that YOU 
 - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Library - Basics
+
 
 # Library - Mental Health
 - Perspective
