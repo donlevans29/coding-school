@@ -1,6 +1,14 @@
 # Squidux Code School [Possible Business Idea]
 documentation of the most efficient way to learn quickly and in-depth programming.
 
+# Learning Approach
+Project Based Learning
+BEST APPROACH TO LEARNING FAST AND THROUGHLY
+focus on => ++ Build Challenging Projects
+- it keeps you focused
+- doesn't realy on your memory
+- makes you an active learner while using tuts just to give yo the basics to work with.
+
 # Research
 - video courses [supportive material]
 - problem solving excersise [applied learning]
