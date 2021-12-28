@@ -12,6 +12,20 @@ focus on => ++ Build Challenging Projects
 *** Combine more resouces in one place.(example from algoexpert.io for coding interviews)
 ![image](https://user-images.githubusercontent.com/18158428/147478039-b4288cf3-6140-4e57-8f7e-d35c5b6b3466.png)
 
+** Advancing Software Chunks
+*** Mastering Basics-- Not expected to know how to do deep problem solving translate psuedo code into code.
+- Getting really comfortable with developer enviroment, coding tools, opening folders with terminal, github repo creations, adds, commits.
+- errors around live server errors, or start server commands not launching,
+- HTML and Beyond | syntax | Structure | Practice | Then Beyond - Template Literals, api url query, code src reference, classes&ID namings
+- CSS and Beyond | syntax | Structure | Practice | Then Beyond - flexbox, sass, positioning, class & ID, components
+- Javascript and Beyond | syntax | Structure | Practice | Then Beyond -Arraysfucntions, Objects, Functions, Conditionals, multi loops/conditionals, async, datastructures intro, complete projects with many javascript functions and files, jSX, console and return statements.
+
+*** Core of Programmming
+- Data manipulation problem solving
+- Async for data mutation and transportaiont
+- Time and Space complecity solutions
+- Mult Solutions or Better code solutions
+- Systems 
 
 # Research
 - video courses [supportive material]
@@ -44,6 +58,10 @@ I think the best learning is when you actually need to build something that YOU 
 - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Library - Basics
+
+## Library - Javascrpt Tooling
+- Flow https://flow.org/en/
+- VS CODE [es6 extension, github extension,]
 
 
 # Library - Mental Health
