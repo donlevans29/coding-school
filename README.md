@@ -78,3 +78,9 @@ I think the best learning is when you actually need to build something that YOU 
 - Learning
 - Documented Learning
 - Teaching what You can deomonstrate throughly
+
+# Routine Creating Content => Tech Recruiters Looking for Knowledgable,Skilled Devlopers with Communicaitons Skills and Leaadership experience.
+- Post to 100DaysOfCode on twitter
+- Create Medium Post about the algo I just learned
+- Create a video about the algo I just learned
+- 
