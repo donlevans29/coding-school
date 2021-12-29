@@ -58,6 +58,15 @@ I think the best learning is when you actually need to build something that YOU 
 - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Library - Basics
+-
+
+#Library - The Hard Parts
+- Data Structures
+- Algorithms
+- Async
+- Array Functions
+- Data Manipulation
+
 
 ## Library - Javascrpt Tooling
 - Flow https://flow.org/en/
