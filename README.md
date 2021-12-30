@@ -66,6 +66,8 @@ I think the best learning is when you actually need to build something that YOU 
 - Array Functions
 - Data Manipulation
 
+## Javascript Problems to know
+- two Number Sum
 
 ## Library - Javascrpt Tooling
 - Flow https://flow.org/en/
