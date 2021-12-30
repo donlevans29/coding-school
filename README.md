@@ -67,7 +67,7 @@ I think the best learning is when you actually need to build something that YOU 
 - Data Manipulation
 
 ## Javascript Problems to know
-- two Number Sum
+- two Number Sum | Possible solutions Double for loops, hash table, sort array with pointers.
 
 ## Library - Javascrpt Tooling
 - Flow https://flow.org/en/
