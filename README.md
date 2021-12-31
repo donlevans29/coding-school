@@ -35,6 +35,7 @@ focus on => ++ Build Challenging Projects
 - code review [validation of well applied learning]
 - audio books [supportive material]
 - mini project build approach [streching your learning]
+- How Javascript works behind the scenes : https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32
 
 # Project
 Your going to build 1 really large software that requires you to apply all the basic and mid-level software concepts.
