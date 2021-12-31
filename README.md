@@ -1,4 +1,4 @@
-# Squidux Code School [Possible Business Idea]
+# Squidux Code School
 documentation of the most efficient way to learn quickly and in-depth programming.
 
 # Learning Approach
@@ -58,6 +58,8 @@ I think the best learning is when you actually need to build something that YOU 
 - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial https://www.youtube.com/watch?v=M576WGiDBdQ
 
 # Library - Basics
+- How to think like a programmer by Bob.ts: https://dev.to/rfornal/think-with-a-programmers-brain-2109?signin=true
+- 
 
 # Library - The Hard Parts
 - Data Structures
