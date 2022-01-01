@@ -60,7 +60,7 @@ I think the best learning is when you actually need to build something that YOU 
 
 # Library - Basics
 - How to think like a programmer by Bob.ts: https://dev.to/rfornal/think-with-a-programmers-brain-2109?signin=true
-- 
+- TERMS TO KNOW: https://medium.com/javascript-in-plain-english/6-terms-in-programming-i-wish-i-understood-earlier-156ad77c998
 
 # Library - The Hard Parts
 - Data Structures
