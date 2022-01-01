@@ -71,6 +71,9 @@ I think the best learning is when you actually need to build something that YOU 
 
 ## Javascript Problems to know
 - two Number Sum | Possible solutions Double for loops, hash table, sort array with pointers.
+CREATE ROADMAPS?
+![image](https://user-images.githubusercontent.com/18158428/147859453-d00d53f0-c3b6-49c8-abf4-5d406cec1cb9.png)
+
 
 ## Library - Javascrpt Tooling
 - Flow https://flow.org/en/
