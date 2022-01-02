@@ -4,16 +4,17 @@ documentation of the most efficient way to learn quickly and in-depth programmin
 # Developing Right Programmers Mindset
 - https://www.youtube.com/watch?v=0SARbwvhupQ
 - https://www.youtube.com/watch?v=azcrPFhaY9k&t=632s
-There is no genius
-Lose the ego
-Criticism is not evil
-Embrace failure
-Iterate Quickly
-Be a small fish
-Be influenced
-Be vulnerable
-Tools
-Involve collaborators early, but not too (at the 'sweet spot')
+
+-There is no genius
+-Lose the ego
+-Criticism is not evil
+-Embrace failure
+-Iterate Quickly
+-Be a small fish
+-Be influenced
+-Be vulnerable
+-Tools
+-Involve collaborators early, but not too (at the 'sweet spot')
 
 resources credit:
 https://github.com/donlevans29/coding-interview-university
