@@ -4,6 +4,7 @@ documentation of the most efficient way to learn quickly and in-depth programmin
 # Developing Right Programmers Mindset
 - https://www.youtube.com/watch?v=0SARbwvhupQ
 - https://www.youtube.com/watch?v=azcrPFhaY9k&t=632s
+- https://www.youtube.com/watch?v=1i8ylq4j_EY
 
 -There is no genius
 -Lose the ego
