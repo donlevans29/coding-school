@@ -1,6 +1,17 @@
 # Squidux Code School
 documentation of the most efficient way to learn quickly and in-depth programming.
 
+# REORGANIZE THIS TO
+- Income Tradjectory and Roles
+- Developer Roadmap
+- Interview Prep
+- What topics are basic
+- What topics are overflow
+- A Daily Routine for most effective knowledge aquisition and comprehension
+- Proper Mental Attitude
+
+
+
 # Developing Right Programmers Mindset
 - https://www.youtube.com/watch?v=0SARbwvhupQ
 - https://www.youtube.com/watch?v=azcrPFhaY9k&t=632s
