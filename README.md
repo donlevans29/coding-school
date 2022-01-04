@@ -17,16 +17,16 @@ documentation of the most efficient way to learn quickly and in-depth programmin
 - https://www.youtube.com/watch?v=azcrPFhaY9k&t=632s
 - https://www.youtube.com/watch?v=1i8ylq4j_EY
 
--There is no genius
--Lose the ego
--Criticism is not evil
--Embrace failure
--Iterate Quickly
--Be a small fish
--Be influenced
--Be vulnerable
--Tools
--Involve collaborators early, but not too (at the 'sweet spot')
+- There is no genius
+- Lose the ego
+- Criticism is not evil
+- Embrace failure
+- Iterate Quickly
+- Be a small fish
+- Be influenced
+- Be vulnerable
+- Tools
+- Involve collaborators early, but not too (at the 'sweet spot')
 
 resources credit:
 https://github.com/donlevans29/coding-interview-university
