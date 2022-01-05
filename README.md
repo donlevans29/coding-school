@@ -9,6 +9,7 @@ documentation of the most efficient way to learn quickly and in-depth programmin
 - What topics are overflow
 - A Daily Routine for most effective knowledge aquisition and comprehension
 - Proper Mental Attitude
+- Learning Methods
 
 
 
