@@ -9,8 +9,8 @@ documentation of the most efficient way to learn quickly and in-depth programmin
 - What topics are overflow
 - A Daily Routine for most effective knowledge aquisition and comprehension
 - Proper Mental Attitude
-- Learning Methods | repetition & 
-- Falling into nuances like | trying to appear smarter than you are(with showcasing clone builds that aren't actually a result from them struggling to figure it out), pretending to struggle coding, posting html and css and say your coding. Avoid the truely technical stuff, avoid being patient, avoid asking questions, avoid clarifying your confusion and then just researching for an answer, avoid being focused, avoid actually writing code majority of the day. Avoid the hard parts of learning to code by just coding. Try to make complex things easier to understand before you understand them. Underestimate the amount of stuff you need to have experienced with coding. Excluding knowledge of self from the process of coding or learning to code something new.
+- Learning Methods | repetition - hungry - structured 
+Repetition & Falling into nuances like | trying to appear smarter than you are(with showcasing clone builds that aren't actually a result from them struggling to figure it out), pretending to struggle coding, posting html and css and say your coding. Avoid the truely technical stuff, avoid being patient, avoid asking questions, avoid clarifying your confusion and then just researching for an answer, avoid being focused, avoid actually writing code majority of the day. Avoid the hard parts of learning to code by just coding. Try to make complex things easier to understand before you understand them. Underestimate the amount of stuff you need to have experienced with coding. Excluding knowledge of self from the process of coding or learning to code something new.
 
 # Developing Right Programmers Mindset
 - https://www.youtube.com/watch?v=0SARbwvhupQ
