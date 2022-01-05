@@ -3,7 +3,7 @@ My notes while I'm immersed into javascript.
 Here are the topics I'm involved in using javascript
 - Data structures
 - Algorithms
-- Functional programming
+- Functional programming {https://www.youtube.com/watch?v=BJG-c65XkEU}
 
 # REORGANIZE THIS TO
 - Income Tradjectory and Roles
