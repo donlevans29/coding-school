@@ -1,5 +1,9 @@
 # Squidux Code School
-documentation of the most efficient way to learn quickly and in-depth programming.
+My notes while I'm immersed into javascript.
+Here are the topics I'm involved in using javascript
+- Data structures
+- Algorithms
+- Functional programming
 
 # REORGANIZE THIS TO
 - Income Tradjectory and Roles
