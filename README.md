@@ -126,4 +126,5 @@ CREATE ROADMAPS?
 - Post to 100DaysOfCode on twitter
 - Create Medium Post about the algo I just learned
 - Create a video about the algo I just learned
-- 
+- Create a react app
+- Go over the code of the previous algo's
