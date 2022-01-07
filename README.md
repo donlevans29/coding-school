@@ -76,6 +76,8 @@ focus on => ++ Build Challenging Projects
 Your going to build 1 really large software that requires you to apply all the basic and mid-level software concepts.
 I think the best learning is when you actually need to build something that YOU find useful or that someone depends on a mission critical activity.
 (bill gates building the software for the school payroll)
+- 365 Year SQUARES PROGRESS
+- 
 
 ## Project - Experience Hack
 - Work on your own project on github and update it everyday using targeted speciality language.
