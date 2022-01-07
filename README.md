@@ -124,6 +124,9 @@ CREATE ROADMAPS?
 - Documented Learning
 - Teaching what You can deomonstrate throughly
 
+# Library - FREE API'S(●'◡'●)
+- https://rapidapi.com/collection/list-of-free-apis
+- 
 # Routine Creating Content => Tech Recruiters Looking for Knowledgable,Skilled Devlopers with Communicaitons Skills and Leaadership experience.
 - Post to 100DaysOfCode on twitter
 - Create Medium Post about the algo I just learned
