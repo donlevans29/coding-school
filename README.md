@@ -4,6 +4,7 @@ Here are the topics I'm involved in using javascript
 - Data structures
 - Algorithms
 - Functional programming {https://www.youtube.com/watch?v=BJG-c65XkEU}
+- React Development
 
 # REORGANIZE THIS TO
 - Income Tradjectory and Roles
