@@ -108,6 +108,13 @@ source: https://www.youtube.com/watch?v=EqzUcMzfV1w
 - Async
 - Array Functions
 - Data Manipulation
+- REST API
+- JSON
+- DOM
+- Modern API's
+- Object Oriented Programming
+- Web Security
+- Javascript Troubleshooting
 
 ## Javascript Problems to know
 - two Number Sum | Possible solutions Double for loops, hash table, sort array with pointers.
