@@ -115,6 +115,8 @@ source: https://www.youtube.com/watch?v=EqzUcMzfV1w
 - Object Oriented Programming
 - Web Security
 - Javascript Troubleshooting
+- Databases
+- Software Design Patterns/archetecture
 
 ## Javascript Problems to know
 - two Number Sum | Possible solutions Double for loops, hash table, sort array with pointers.
