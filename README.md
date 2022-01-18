@@ -105,7 +105,7 @@ source: https://www.youtube.com/watch?v=EqzUcMzfV1w
 # Library - The Hard Parts
 - Data Structures
 - Algorithms
-- Async
+- Async Programming
 - Array Functions
 - Data Manipulation
 - REST API
