@@ -146,3 +146,7 @@ CREATE ROADMAPS?
 - Create a video about the algo I just learned
 - Create a react app
 - Go over the code of the previous algo's
+
+# GETTING JOB READY
+Linked In course link
+https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?autoSkip=true&autoplay=true&resume=false
