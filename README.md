@@ -153,6 +153,7 @@ https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-c
 
 ## Interview Questions
 -- LINKED IN QUESTIONS https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
+https://codeinjs.net/top-75-javascript-interview-questions-and-answers-2022/
 #1 Tell Me A Little About Yourself
 #2 
 
