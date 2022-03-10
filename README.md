@@ -150,3 +150,7 @@ CREATE ROADMAPS?
 # GETTING JOB READY
 Linked In course link
 https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?autoSkip=true&autoplay=true&resume=false
+
+# Monitize While You Learn
+Make $500 mth in 6 months writting 2-4 articles on Medium a week -> https://medium.com/swlh/step-1-please-fill-out-the-form-below-c354ca4bad31
+
