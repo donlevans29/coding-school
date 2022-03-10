@@ -151,6 +151,7 @@ CREATE ROADMAPS?
 Linked In course link
 https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?autoSkip=true&autoplay=true&resume=false
 Top 75+ JavaScript Interview Questions And Answers [2022] - https://codeinjs.net/top-75-javascript-interview-questions-and-answers-2022/
+7 Best React Project Ideas For Beginners in 2022 - https://www.geeksforgeeks.org/7-best-react-project-ideas-for-beginners-in-2022/
 
 ## Interview Questions
 -- LINKED IN QUESTIONS https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
