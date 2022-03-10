@@ -151,6 +151,11 @@ CREATE ROADMAPS?
 Linked In course link
 https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?autoSkip=true&autoplay=true&resume=false
 
+## Interview Questions
+-- LINKED IN QUESTIONS https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
+#1 Tell Me A Little About Yourself
+#2 
+
 # Monitize While You Learn
 Make $500 mth after 6 months of writting 2-4 articles on Medium a week -> https://medium.com/swlh/step-1-please-fill-out-the-form-below-c354ca4bad31
 
