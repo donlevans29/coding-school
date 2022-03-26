@@ -80,6 +80,7 @@ I think the best learning is when you actually need to build something that YOU 
 (bill gates building the software for the school payroll)
 - 365 Year SQUARES PROGRESS
 - BEST APPROACH IS TO STRUGGLE TO BUILD SOMETHING THAT YOU WILL ACTUALLY USER DAILY.
+- To Code App - Makes it easy to keep track of what I 've learned to do while keeping a library of the code on my computer while publishing to the internet for someone else to see and learn.
 
 ## Project - Experience Hack
 - Work on your own project on github and update it everyday using targeted speciality language.
