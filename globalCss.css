@@ -1,0 +1,25 @@
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+html,
+i,
+img,
+label,
+li,
+nav,
+small,
+span,
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  outline: none;
+  vertical-align: baseline;
+  background: transparent;
+}
