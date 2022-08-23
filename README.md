@@ -166,3 +166,8 @@ https://codeinjs.net/top-75-javascript-interview-questions-and-answers-2022/
 # Monitize While You Learn
 Make $500 mth after 6 months of writting 2-4 articles on Medium a week -> https://medium.com/swlh/step-1-please-fill-out-the-form-below-c354ca4bad31
 
+# MIDDLEWARES
+
+![image](https://user-images.githubusercontent.com/18158428/186213335-d57bd62a-cfc5-4e10-baba-b1bc232b9699.png)
+
+
